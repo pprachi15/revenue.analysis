@@ -1,5 +1,6 @@
 # Revenue Analysis Dashboard
 
+#### [Click to view dashboard](https://public.tableau.com/views/RevenueAnalysis_17214086724910/CustomerRevenueDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 This project involves creating a Revenue Analysis Dashboard using Tableau. The dashboard provides a comprehensive view of key performance indicators (KPIs) related to revenue across various dimensions such as state, month, age, region, and gender. The primary goal is to analyze and visualize the revenue data to extract meaningful insights that can drive business decisions.
 
 ## Key Performance Indicators (KPIs)
