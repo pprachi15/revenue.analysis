@@ -18,7 +18,7 @@ The KPIs included in this dashboard are:
 <img src="https://github.com/pprachi15/introduction/assets/116032314/0c174aef-f793-4a52-8b80-ceb431cf0cfa" width="60" height="60" />      <!-- SQL -->
 
 
-<img src="https://github.com/user-attachments/assets/99c1bff2-609a-47ce-8ea1-70c87cd6a585" width="800" height="400" />      <!-- dashboard -->
+<img src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc" width="800" height="400" />      <!-- dashboard -->
 
 
 ## How to Use
