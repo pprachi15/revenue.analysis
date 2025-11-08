@@ -18,10 +18,15 @@ The KPIs included in this dashboard are:
 <img src="https://github.com/pprachi15/introduction/assets/116032314/62f457ca-c230-4507-b841-057a6d65099c" width="60" height="60" />     <!-- Tableau  -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/0c174aef-f793-4a52-8b80-ceb431cf0cfa" width="60" height="60" />      <!-- SQL -->
 
-
 <img src="https://github.com/user-attachments/assets/936fb3cb-8337-4c80-acec-0bfd2c43b2fc" width="800" height="400" />      <!-- dashboard -->
 
-
+## Results
+- Designed and deployed an interactive Tableau revenue dashboard analyzing $13M in sales data across 50 states, 12 months, and 10+ product categories.
+- Discovered that October revenue peaked at $2.3M, while July dropped to $0.2M, identifying strong seasonal purchasing trends.
+- Analyzed regional revenue performance revealing the Midwest region contributed 28.4% of total sales, the highest among all U.S. regions.
+- Segmented customer demographics showing 30–40-year-olds generated $3.2M, outperforming other age brackets by 78%.
+- Evaluated pricing and discount data, uncovering that orders between 40–60% discount achieved the highest purchase frequency (>20 items), informing future promotion strategies.
+  
 ## How to Use
 
 1. Clone the repository:
